@@ -1,1 +1,2 @@
-Clone repo in ~/conf
+Clone repo 
+Sym link
